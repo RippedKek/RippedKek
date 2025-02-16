@@ -13,9 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tanjeeb meheran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanjeeb meheran" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanjeeb-meheran-55a898242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanjeeb-meheran-55a898242/" height="30" width="40" /></a>
 <a href="https://kaggle.com/tanjeebmeheran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanjeebmeheran" height="30" width="40" /></a>
-<a href="https://instagram.com/t.m_rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t.m_rohan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rippedkek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rippedkek" height="30" width="40" /></a>
 </p>
 
