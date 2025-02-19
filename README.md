@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rippedkek&label=Profile%20views&color=0e75b6&style=flat" alt="rippedkek" /> </p>
 
-- 🔭 I’m currently working on [SnippetHub](https://github.com/RippedKek/SnippetHub)
+- 🔭 I’m currently working on [binbondhu](https://github.com/RippedKek/binbondhu)
 
 - 🌱 I’m currently learning **Django and Integrating ML models with web apps**
 
@@ -24,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rippedkek&show_icons=true&locale=en&layout=compact" alt="rippedkek" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rippedkek&show_icons=true&locale=en" alt="rippedkek" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rippedkek&" alt="rippedkek" /></p>
