@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanjeeb Meheran Rohan</h1>
-<h3 align="center">I am a passionate web developer from Bangladesh</h3>
+<h3 align="center">I am a passionate web and mobile app developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rippedkek&label=Profile%20views&color=0e75b6&style=flat" alt="rippedkek" /> </p>
 
 - 🔭 I’m currently working on [binbondhu](https://github.com/RippedKek/binbondhu)
-
-- 🌱 I’m currently learning **Django and Integrating ML models with web apps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RippedKek?tab=repositories](https://github.com/RippedKek?tab=repositories)
 
